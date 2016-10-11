@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Laboratorio05</string>
+
+    <string-array  name="array-ufs">
+    <item>Acre</item>
+    <item>Amazonas></item>
+    <item>Rio de janeiro></item>
+    <item>São Paulo></item>
+    <item>Santa Catarina></item>
+    <item>Parana></item>
+    </string-array>
+
+    <string name="nome">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+
+    <string name="masc">Masculino</string>
+    <string name="fem">Feminino</string>
+
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="mome">Nome Completo</string>
+    <string name="atualiza_auto">Atualização Automatica?</string>
+    <string name="aceito">Aceito os termos da aplicação</string>
+
+
+</resources>
