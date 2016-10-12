@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Laboratorio05</string>
 
-    <string-array  name="array-ufs">
+    <string-array  name="array_ufs">
     <item>Acre</item>
     <item>Amazonas></item>
     <item>Rio de janeiro></item>
